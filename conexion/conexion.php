@@ -1,10 +1,10 @@
 <?php
 
 //Conexion a la base de datos 
-$host="mysql.lavameapp.com";
-$user="rodrigodev";
-$password="lvmWebapp2019";
-$database="lavame";
+$host="-";
+$user="-";
+$password="-";
+$database="-";
 
 
 
