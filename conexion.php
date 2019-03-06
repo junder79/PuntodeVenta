@@ -2,10 +2,10 @@
 //Definimos la zona horaria (para las fechas)
 date_default_timezone_set('America/Santiago');
 //Conexion a la base de datos 
-$host="mysql.lavameapp.com";
-$user="rodrigodev";
-$password="lvmWebapp2019";
-$database="lavame";
+$host="-";
+$user="-";
+$password="-";
+$database="-";
 
 
 $conexion =mysqli_connect($host , $user , $password , $database);
